@@ -118,20 +118,7 @@ img {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(/images/background/background.jpg);
-  background-repeat: no-repeat;
-  max-width: 1440px;
-  background-position: center;
-  background-size: cover;
-  margin-right: auto;
-  margin-left: auto;
-}
-.hero-section-container {
-  background-image: linear-gradient(
-      rgba(46, 47, 66, 0.7),
-      rgba(46, 47, 66, 0.7)
-    ),
-    url(/images/background/background.jpg);
+    url(../images/background/background.jpg);
   background-repeat: no-repeat;
   max-width: 1440px;
   background-position: center;
